@@ -1,8 +1,6 @@
-# About [malc0de.com]
+# About malc0de.com
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/malc0de.com.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/malc0de.com)
-
-[Description]
 
 --------------------------------------------------------------------------------
 
