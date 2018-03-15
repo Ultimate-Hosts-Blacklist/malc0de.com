@@ -2,7 +2,7 @@
     "/home/travis/build/Ultimate-Hosts-Blacklist/malc0de.com/domains.list": {
         "number_of_down": 0,
         "number_of_invalid": 2,
-        "number_of_tested": 118,
-        "number_of_up": 116
+        "number_of_tested": 117,
+        "number_of_up": 115
     }
 }
