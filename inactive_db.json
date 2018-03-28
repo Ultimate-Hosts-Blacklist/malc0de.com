@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/malc0de.com/domains.list": {
-        "down": 0,
-        "invalid": 2,
-        "tested": 103,
-        "up": 101
+        "1522278341": [
+            "Last",
+            "This"
+        ]
     }
 }
