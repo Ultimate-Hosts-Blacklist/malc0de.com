@@ -1,9 +1,10 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/malc0de.com/domains.list": {
-        "1522278341": [
-            "Last",
+        "1522419217": [
             "This"
         ],
-        "to_test": []
+        "to_test": [
+            "Last"
+        ]
     }
 }
