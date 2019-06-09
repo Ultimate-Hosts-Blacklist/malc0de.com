@@ -1,7 +1,10 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "last_test": 1557420515,
+    "end_datetime": "Sun Jun  9 16:42:10 2019",
+    "end_epoch": 1560098530.756045,
     "name": "malc0de.com",
-    "raw_link": "http://malc0de.com/bl/IP_Blacklist.txt"
+    "raw_link": "http://malc0de.com/bl/IP_Blacklist.txt",
+    "start_datetime": "Sun Jun  9 16:41:09 2019",
+    "start_epoch": 1560098469.647331
 }
