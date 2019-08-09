@@ -1,23 +1,23 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Wed Aug  7 17:01:26 2019",
-    "end_epoch": 1565197286.519966,
+    "end_datetime": "Fri Aug  9 17:21:21 2019",
+    "end_epoch": 1565371281.966865,
     "name": "malc0de.com",
     "previous_stats": {
         "builds": 1,
-        "clean.list": 51,
+        "clean.list": 50,
         "counter": {
-            "down": 15,
+            "down": 16,
             "invalid": 2,
             "tested": 68,
-            "up": 51
+            "up": 50
         },
         "domains.list": 68,
-        "volatile.list": 51,
-        "whitelisted.list": 51
+        "volatile.list": 50,
+        "whitelisted.list": 50
     },
     "raw_link": "http://malc0de.com/bl/IP_Blacklist.txt",
-    "start_datetime": "Wed Aug  7 17:00:58 2019",
-    "start_epoch": 1565197258.538897
+    "start_datetime": "Fri Aug  9 17:20:54 2019",
+    "start_epoch": 1565371254.312299
 }
