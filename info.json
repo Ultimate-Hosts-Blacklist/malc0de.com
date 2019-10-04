@@ -1,22 +1,13 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 4,
-            "invalid": 1,
-            "tested": 51,
-            "up": 46
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Thu Oct  3 10:33:10 2019",
-    "end_epoch": 1570098790.343996,
+    "end_datetime": "Fri Oct  4 14:38:23 2019",
+    "end_epoch": 1570199903.201132,
     "last_autosave_datetime": "Fri Oct  4 12:03:19 2019",
     "last_autosave_epoch": 1570190599.878144,
     "name": "malc0de.com",
     "previous_stats": {
-        "builds": 1,
+        "builds": 2,
         "clean.list": 50,
         "counter": {
             "down": 16,
