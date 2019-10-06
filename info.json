@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 4,
-            "invalid": 1,
-            "tested": 51,
-            "up": 46
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sun Oct  6 03:50:39 2019",
-    "end_epoch": 1570333839.243043,
+    "end_datetime": "Sun Oct  6 15:35:53 2019",
+    "end_epoch": 1570376153.972865,
     "last_autosave_datetime": "Sun Oct  6 12:27:42 2019",
     "last_autosave_epoch": 1570364862.929648,
     "name": "malc0de.com",
@@ -19,12 +10,12 @@
         "builds": 2,
         "clean.list": 50,
         "counter": {
-            "down": 15,
+            "down": 14,
             "invalid": 2,
-            "tested": 67,
+            "tested": 66,
             "up": 50
         },
-        "domains.list": 67,
+        "domains.list": 66,
         "volatile.list": 50,
         "whitelisted.list": 50
     },
