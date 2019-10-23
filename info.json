@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Tue Oct 22 10:33:55 2019",
-    "end_epoch": 1571740435.268848,
+    "end_datetime": "Wed Oct 23 10:37:18 2019",
+    "end_epoch": 1571827038.895345,
     "last_autosave_datetime": "Tue Oct  8 12:47:12 2019",
     "last_autosave_epoch": 1570538832.421553,
     "name": "malc0de.com",
@@ -20,6 +20,6 @@
         "whitelisted.list": 44
     },
     "raw_link": "http://malc0de.com/bl/IP_Blacklist.txt",
-    "start_datetime": "Tue Oct 22 10:33:33 2019",
-    "start_epoch": 1571740413.002888
+    "start_datetime": "Wed Oct 23 10:36:52 2019",
+    "start_epoch": 1571827012.932319
 }
