@@ -1612,9 +1612,6 @@
             "malicious": "INVALID",
             "populated": "INVALID"
         },
-        "1582138734": {
-            "daily": "INVALID"
-        },
         "1582311597": {
             "2019-05-23": "INVALID",
             "92.63.197.59": "INACTIVE",
@@ -1646,7 +1643,6 @@
             "92.63.197.153": "INACTIVE"
         },
         "1582311606": {
-            "daily": "INVALID",
             "file": "INVALID",
             "malicious": "INVALID",
             "populated": "INVALID"
@@ -1682,7 +1678,6 @@
             "46.232.113.12": "INACTIVE",
             "94.154.11.100": "INACTIVE",
             "94.156.133.65": "INACTIVE",
-            "daily": "INVALID",
             "with": "INVALID"
         },
         "1582409879": {
@@ -1719,8 +1714,7 @@
             "and": "INVALID"
         },
         "1582542523": {
-            "188.166.74.218": "INACTIVE",
-            "daily": "INVALID"
+            "188.166.74.218": "INACTIVE"
         },
         "1582542524": {
             "95.213.184.187": "INACTIVE"
@@ -1792,7 +1786,6 @@
         "1582656014": {
             "46.232.113.12": "INACTIVE",
             "94.154.11.126": "INACTIVE",
-            "daily": "INVALID",
             "populated": "INVALID"
         },
         "1582656015": {
@@ -1806,6 +1799,54 @@
         "1582656019": {
             "195.161.62.191": "INACTIVE",
             "days": "INVALID"
+        },
+        "1582829171": {
+            "194.63.143.226": "INACTIVE",
+            "30": "INVALID",
+            "94.154.11.126": "INACTIVE",
+            "the": "INVALID"
+        },
+        "1582829172": {
+            "104.18.61.76": "INACTIVE",
+            "46.232.113.12": "INACTIVE"
+        },
+        "1582829173": {
+            "104.18.60.76": "INACTIVE",
+            "92.63.197.153": "INACTIVE",
+            "IP": "INVALID",
+            "populated": "INVALID",
+            "updated": "INVALID"
+        },
+        "1582829174": {
+            "2019-12-16": "INVALID",
+            "46.232.113.18": "INACTIVE",
+            "automatically": "INVALID",
+            "with": "INVALID"
+        },
+        "1582829175": {
+            "46.232.113.8": "INACTIVE",
+            "last": "INVALID"
+        },
+        "1582829176": {
+            "195.161.62.191": "INACTIVE"
+        },
+        "1582829178": {
+            "103.253.73.77": "INACTIVE",
+            "202.179.136.69": "INACTIVE"
+        },
+        "1582829179": {
+            "108.167.181.25": "INACTIVE",
+            "92.63.197.60": "INACTIVE",
+            "addresses.": "INVALID",
+            "days": "INVALID"
+        },
+        "1582829180": {
+            "104.18.36.98": "INACTIVE",
+            "92.63.197.59": "INACTIVE"
+        },
+        "1582829181": {
+            "95.213.184.187": "INACTIVE",
+            "daily": "INVALID"
         }
     }
 }
