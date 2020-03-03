@@ -1882,6 +1882,68 @@
             "IP": "INVALID",
             "addresses.": "INVALID",
             "and": "INVALID"
+        },
+        "1583264613": {
+            "['Last', 'updated', '2019-12-16']": "INVALID",
+            "['This', 'file', 'will', 'be', 'automatically', 'updated', 'daily', 'and', 'populated', 'with', 'the', 'last', '30', 'days', 'of', 'malicious', 'IP', 'addresses.']": "INVALID"
+        },
+        "1583264614": {
+            "103.253.73.77": "INACTIVE"
+        },
+        "1583264615": {
+            "104.18.36.98": "INACTIVE"
+        },
+        "1583264617": {
+            "days": "INVALID"
+        },
+        "1583264618": {
+            "104.18.61.76": "INACTIVE",
+            "2019-05-23": "INVALID",
+            "93.189.41.63": "INACTIVE",
+            "automatically": "INVALID",
+            "daily": "INVALID",
+            "file": "INVALID",
+            "populated": "INVALID",
+            "updated": "INVALID"
+        },
+        "1583264619": {
+            "46.232.113.18": "INACTIVE",
+            "92.63.197.59": "INACTIVE",
+            "95.213.184.187": "INACTIVE",
+            "Last": "INVALID",
+            "of": "INVALID",
+            "the": "INVALID"
+        },
+        "1583264620": {
+            "46.232.113.8": "INACTIVE",
+            "92.63.197.60": "INACTIVE",
+            "94.154.11.100": "INACTIVE",
+            "94.154.11.126": "INACTIVE",
+            "94.156.133.65": "INACTIVE",
+            "This": "INVALID",
+            "and": "INVALID",
+            "last": "INVALID",
+            "with": "INVALID"
+        },
+        "1583264623": {
+            "108.167.181.25": "INACTIVE",
+            "195.161.62.191": "INACTIVE",
+            "30": "INVALID",
+            "IP": "INVALID",
+            "addresses.": "INVALID",
+            "will": "INVALID"
+        },
+        "1583264624": {
+            "104.18.60.76": "INACTIVE",
+            "2019-12-16": "INVALID",
+            "202.179.136.69": "INACTIVE",
+            "46.232.113.12": "INACTIVE"
+        },
+        "1583264625": {
+            "188.166.74.218": "INACTIVE",
+            "194.63.143.226": "INACTIVE",
+            "92.63.197.153": "INACTIVE",
+            "malicious": "INVALID"
         }
     }
 }
