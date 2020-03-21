@@ -9,7 +9,7 @@
     "previous_stats": {
         "builds": 1,
         "clean.list": 0,
-        "clean_list": 18,
+        "clean_list": 20,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -20,11 +20,11 @@
             "valid": 0
         },
         "domains.list": 23,
-        "ip.list": 18,
-        "volatile.list": 18,
-        "whitelisted.list": 18
+        "ip.list": 22,
+        "volatile.list": 20,
+        "whitelisted.list": 20
     },
     "raw_link": "http://malc0de.com/bl/IP_Blacklist.txt",
-    "start_datetime": "2020-03-20T11:06:52.186116",
-    "start_epoch": 1584702412.186116
+    "start_datetime": "2020-03-21T19:42:32.474749",
+    "start_epoch": 1584819752.474749
 }
