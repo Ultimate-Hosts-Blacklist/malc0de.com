@@ -10,8 +10,8 @@
     "name": "malc0de.com",
     "previous_stats": {
         "builds": 1,
-        "clean.list": 0,
-        "clean_list": 21,
+        "clean.list": 1,
+        "clean_list": 22,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -21,12 +21,12 @@
             "up": 0,
             "valid": 0
         },
-        "domains.list": 23,
+        "domains.list": 41,
         "ip.list": 23,
-        "volatile.list": 21,
-        "whitelisted.list": 21
+        "volatile.list": 22,
+        "whitelisted.list": 22
     },
     "raw_link": "http://malc0de.com/bl/IP_Blacklist.txt",
-    "start_datetime": "2020-04-20T23:29:20.764397",
-    "start_epoch": 1587425360.764397
+    "start_datetime": "2020-04-22T19:38:21.647814",
+    "start_epoch": 1587584301.647814
 }
