@@ -92,10 +92,10 @@
             "status": "INACTIVE"
         },
         "30": {
-            "included_at_epoch": 1593292946.510156,
-            "included_at_iso": "2020-06-27T21:22:26.510156",
-            "last_retested_at_epoch": 1593292946.510156,
-            "last_retested_at_iso": "2020-06-27T21:22:26.510156",
+            "included_at_epoch": 1593302900.319636,
+            "included_at_iso": "2020-06-28T00:08:20.319636",
+            "last_retested_at_epoch": 1593302900.319636,
+            "last_retested_at_iso": "2020-06-28T00:08:20.319636",
             "status": "INVALID"
         },
         "46.232.113.12": {
