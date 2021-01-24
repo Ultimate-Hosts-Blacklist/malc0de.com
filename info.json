@@ -1,32 +1,20 @@
 {
     "currently_under_test": false,
+    "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
-    "end_datetime": "2020-03-03T19:43:30.383773",
-    "end_epoch": 1583146843.979135,
+    "end_datetime": "2021-01-24T10:19:24.760337",
+    "end_epoch": 1611483564.760337,
     "issue_link": null,
-    "last_autosave_datetime": "2020-03-03T19:43:30.383790",
-    "last_autosave_epoch": 1570538832.421553,
     "link": "http://malc0de.com/bl/IP_Blacklist.txt",
     "name": "malc0de.com",
-    "previous_stats": {
-        "builds": 1,
-        "clean.list": 1,
-        "clean_list": 18,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "domains.list": 41,
-        "ip.list": 17,
-        "volatile.list": 18,
-        "whitelisted.list": 18
+    "previous_end_datetime": "2020-03-03T19:43:30.383773",
+    "previous_end_epoch": 1583264610.383773,
+    "previous_start_datetime": "2020-09-05T20:23:53.651643",
+    "previous_start_epoch": 1599337433.651643,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "http://malc0de.com/bl/IP_Blacklist.txt",
-    "start_datetime": "2020-09-05T20:23:53.651643",
-    "start_epoch": 1599337433.651643
+    "start_datetime": "2021-01-24T10:17:06.601367",
+    "start_epoch": 1611483426.601367
 }
