@@ -1,19 +1,19 @@
 {
     "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2021-10-24T09:45:34.957412",
-    "end_epoch": 1635068734.957412,
+    "end_datetime": "2021-10-25T09:46:12.444037",
+    "end_epoch": 1635155172.444037,
     "issue_link": null,
     "link": "http://malc0de.com/bl/IP_Blacklist.txt",
     "name": "malc0de.com",
-    "previous_end_datetime": "2021-10-23T09:43:07.012068",
-    "previous_end_epoch": 1634982187.012068,
-    "previous_start_datetime": "2021-10-23T09:41:54.224096",
-    "previous_start_epoch": 1634982114.224096,
+    "previous_end_datetime": "2021-10-24T09:45:34.957412",
+    "previous_end_epoch": 1635068734.957412,
+    "previous_start_datetime": "2021-10-24T09:44:23.248006",
+    "previous_start_epoch": 1635068663.248006,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "http://malc0de.com/bl/IP_Blacklist.txt",
-    "start_datetime": "2021-10-24T09:44:23.248006",
-    "start_epoch": 1635068663.248006
+    "start_datetime": "2021-10-25T09:45:17.953564",
+    "start_epoch": 1635155117.953564
 }
