@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-192.138.20.112,AVAILABILITY,domains.list,2022-01-12 06:37:48.222308
 populated,AVAILABILITY,domains.list,2022-01-13 06:36:55.613318
 automatically,AVAILABILITY,domains.list,2022-01-13 06:36:55.860874
 and,AVAILABILITY,domains.list,2022-01-13 06:36:56.075657
@@ -20,3 +19,4 @@ this,AVAILABILITY,domains.list,2022-01-13 06:37:09.261607
 file,AVAILABILITY,domains.list,2022-01-13 06:37:09.484614
 will,AVAILABILITY,domains.list,2022-01-13 06:37:09.728631
 daily,AVAILABILITY,domains.list,2022-01-13 06:37:09.948680
+192.138.20.112,AVAILABILITY,domains.list,2022-01-14 03:57:19.722187
